@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar'
-import NavbarHero from './components/hero.jsx'
+import NavbarHero from './components/Hero'
 import FeaturedCars from './components/Features'
 import LatestNews from './components/LatestNews'
 import TopBrands from './components/TopBrands'
